@@ -1,0 +1,13 @@
+Repositório do projeto até a versão atual (incompleta): https://github.com/pedrohso7/urClassPosts_frontend
+
+Tem-se apenas o crud de usuários e as devidas validações.
+
+Foi utilizado framework React js para o frontend.
+Validate.js para as validações de erro de formulário.
+React-Bootstrap para os componentes UI utilizados.
+React-Router-Dom para fluxo de rotas e redirecionamentos.
+
+Pedro Henrique Silva Oliveira - 2677.
+
+
+
