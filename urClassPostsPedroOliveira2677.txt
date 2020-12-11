@@ -1,4 +1,4 @@
-Repositório do projeto até a versão atual (incompleta): https://github.com/pedrohso7/urClassPosts_frontend
+Repositório do projeto até a versão atual (incompleta): https://github.com/pedrohso7/urclassposts-frontend
 
 Tem-se apenas o crud de usuários e as devidas validações.
 
